@@ -15,6 +15,6 @@ I like to think of it as an immersive diorama or room.
 The objects in a scene and the scene itself can be configured to use a set of definitions, which include:
 
 * 3D object scale and position
-* 2D graphich scale and position
+* 2D graphic scale and position
 * Teleport location list - a list of locations to teleport the user to
 
