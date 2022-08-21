@@ -10,7 +10,7 @@ For Scriptaverse a scene can be considered a collection of 3D objects and 2D tex
 
 ## Definition
 
-The objects in a scene and the scene itself can be configured use a set of definitions, which include:
+The objects in a scene and the scene itself can be configured to use a set of definitions, which include:
 
 * 3D object scale and position
 * 2D graphich scale and position
