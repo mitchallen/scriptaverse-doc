@@ -1,6 +1,6 @@
 ---
 slug: /what-is-a-scene
-sidebar_label: 'What is Scene?'
+sidebar_label: 'What is a Scene?'
 sidebar_position: 2
 ---
 
@@ -14,5 +14,5 @@ The objects in a scene and the scene itself can be configured use a set of defin
 
 * 3D object scale and position
 * 2D graphich scale and position
-* Telport location list - a list of locations to teleport the user to
+* Teleport location list - a list of locations to teleport the user to
 
