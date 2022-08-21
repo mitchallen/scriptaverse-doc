@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # What is a Scene?
 
-For Scriptaverse a scene can be considered a collection of 3D objects and 2D texture.
+For Scriptaverse a scene can be considered a collection of 3D objects and 2D textures.
 
 I like to think of it as an immersive diorama or room.
 
