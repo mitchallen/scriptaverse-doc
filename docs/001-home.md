@@ -8,3 +8,7 @@ sidebar_position: 1
 
 Scriptaverse is an experiment in how to create a personal metaverse that you can host and control.
 
+You can find the demo site here:
+
+* https://scriptaverse.com
+
