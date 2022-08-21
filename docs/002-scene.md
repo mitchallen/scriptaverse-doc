@@ -1,5 +1,5 @@
 ---
-slug: /what-is-a-scene
+slug: what-is-a-scene
 sidebar_label: 'What is a Scene?'
 sidebar_position: 2
 ---
@@ -7,6 +7,8 @@ sidebar_position: 2
 # What is a Scene?
 
 For Scriptaverse a scene can be considered a collection of 3D objects and 2D texture.
+
+I like to think of it as an immersive diorama or room.
 
 ## Definition
 
