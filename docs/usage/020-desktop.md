@@ -12,7 +12,7 @@ That works with the latest Oculus / Meta Browser update within their VR headsets
 I've tested with the following browsers on:
 
 * **Chrome**
-* **Brave**
+* **Brave** - seems to work better with loading objects via IPFS
 * **Safari**
 
 See below for instructions.
